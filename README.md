@@ -1,7 +1,7 @@
 # Password Generator with node
 
-Description : Simple password generator build in full js runnable with node for personnal usage.
-Warning! If you save your password with the option --save or -s, only the root user will access to the password for security reasons.
+Description : Simple password generator build in full js runnable with node for personnal usage.<br>
+**Warning!** : If you save your password with the option --save or -s, only the root user will access to the password for security reasons.
 
 ## Development
 
@@ -18,7 +18,7 @@ npm i
 ```sh
 npm link
 ```
-Warning!: you will probably need to have root permissions to link the programm if you installed node with root permissions.
+**Warning!** : you will probably need to have root permissions to link the programm if you installed node with root permissions.
 to unlink just use in this repo
 ```sh
 npm unlink
@@ -27,7 +27,7 @@ npm unlink
 ```sh
 passwordgen-node
 ```
-Warning!: with the --save option the password will always be save in the file password.txt inside the repo, you can link it with
+**Warning!** : with the --save option the password will always be save in the file password.txt inside the repo, you can link it with
 ```sh
 ln -s password.txt passwordgen-node/password.txt
 ```
