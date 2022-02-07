@@ -1,0 +1,21 @@
+{
+  "name": "passwordgen-node",
+  "version": "1.0.0",
+  "description": "Password generator build with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "node"
+  ],
+  "author": "Guillaume-FAURE",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "clipboardy": "^3.0.0",
+    "commander": "^9.0.0"
+  }
+}
