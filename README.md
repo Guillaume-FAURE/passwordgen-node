@@ -24,6 +24,11 @@ to unlink just use in this repo
 npm unlink
 ```
 ### 4. Run it from everywhere
+To print help and know all the options
+```sh
+passwordgen-node -h
+```
+To run the program with initial configuration
 ```sh
 passwordgen-node
 ```
