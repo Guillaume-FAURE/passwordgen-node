@@ -14,8 +14,9 @@
   "author": "Guillaume-FAURE",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.0.0",
-    "clipboardy": "^3.0.0",
-    "commander": "^9.0.0"
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.0.6-1",
+    "commander": "^9.0.0",
+    "commitlint": "^16.1.0"
   }
 }
